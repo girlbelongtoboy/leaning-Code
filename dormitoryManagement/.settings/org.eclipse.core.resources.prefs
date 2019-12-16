@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/style.css=UTF-8
+encoding//src/dao/DorAdminInfoDao.java=UTF-8
+encoding//src/dao/DorInfoDao.java=UTF-8
+encoding//src/dao/StudentInfoDao.java=UTF-8
+encoding//src/dao/WaterAndElectricityFareDao.java=UTF-8
+encoding//src/util/ExcelToDb.java=UTF-8
